@@ -1,0 +1,16 @@
+scipy
+gensim
+numpy
+scikit-learn
+matplotlib
+langchain_community
+langchain_text_splitters 
+langchain_ollama 
+langchain_core
+jupyter
+jupyter-cache
+
+
+
+
+
